@@ -44,3 +44,48 @@ british sign language
         }
     }
 }]
+swell code 
+
+store": {
+    "id": "example",
+
+    "name": "Example Store",
+    "url": "https://example.swell.store",
+    "country": "US",
+    "locale": "en-US",
+    "support_email": "support@example.com",
+    "support_phone": "(555) 555-5555",
+    "currency": "USD",
+    "public_key": "pk_cn6XsV3m28OjPuN68JdqYbbWJSUGbCqX",
+    "currencies": [
+      {
+        "code": "USD",
+        "rate": 1,
+        "name": "US Dollar",
+        "symbol": "$",
+        "decimals": 2,
+        "type": "base"
+      },
+      {
+        "code": "EUR",
+        "rate": 0.82542,
+        "name": "Euro",
+        "symbol": "€",
+        "decimals": 3,
+        "type": "display"
+      }
+    ],
+    "analytics_scripts": "...",
+    "facebook_p
+the tourn{details <process >
+submit [finalising>
+checkout (card)
+:{successful}
+payment failed {decline}
+<similar items >
+.<thank> for shopping 
+thanks again-{_see you soon >
+swallow is the best service 
+
+
+
